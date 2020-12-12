@@ -4,6 +4,8 @@
 
 Trying to create a virtual voice controlled assistant
 
+  SINCE I HAVE USED GOOGLE API FOR VOICE RECOGNITION PLZ MAKE SURE YOU ARE CONNECTED TO THE INTERNET WHILE EXECUTING THE PROGRAM
+
 Please be advised that I have created this project on Manjaro(Arch Linux), if you're on any other Operating system you might need to install some additional packages according to your OS
 
 
